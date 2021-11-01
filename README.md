@@ -24,7 +24,7 @@ Link: https://pan.baidu.com/s/1CyRN0hnzjbOPNi8qMecUMA Password：aadf
 # Usage
 train: python run.py --train
 
-test: python run.py --train False
+test: python run.py
 
 # Results
 Due to the characteristics of model in the article, the results are fluctuant all the time, so we show the average result: acc=95.83%.
