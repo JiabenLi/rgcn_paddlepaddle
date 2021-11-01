@@ -22,7 +22,7 @@ The paddle model we trained：
 Link: https://pan.baidu.com/s/1CyRN0hnzjbOPNi8qMecUMA Password：aadf
 
 # Usage
-train: python run.py --train True
+train: python run.py --train
 
 test: python run.py --train False
 
