@@ -1,0 +1,5 @@
+paddlepaddle==2.1.3
+paddlenlp==2.1.1
+rdflib==6.0.2
+wget==3.2
+h5py==3.5.0
