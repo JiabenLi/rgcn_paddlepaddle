@@ -8,8 +8,8 @@ Schlichtkrull, Michael, et al. "Modeling relational data with graph convolutiona
 The code in this repo is based on or refers to https://github.com/berlincho/RGCN-pytorch
 
 # Requirements
-* Python-3.8.12
-* PaddlePaddle-2.1.3
+* python-3.8.12
+* paddlepaddle-2.1.3
 * paddlenlp-2.1.1
 * rdflib-6.0.2
 * wget-3.2
