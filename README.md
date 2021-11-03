@@ -5,7 +5,7 @@ This is a PaddlePaddle implementation of the Relational Graph Convolutional Netw
 
 Schlichtkrull, Michael, et al. "Modeling relational data with graph convolutional networks." European semantic web conference. Springer, Cham, 2018.
 
-The code in this repo is based on or refers to https://github.com/berlincho/RGCN-pytorch
+The code in this repo is based on or refers to https://github.com/berlincho/RGCN-pytorch and https://github.com/tkipf/relational-gcn
 
 # Requirements
 * Hardware：CPU (RAM larger than 36G is recommended)
