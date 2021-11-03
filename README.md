@@ -8,7 +8,7 @@ Schlichtkrull, Michael, et al. "Modeling relational data with graph convolutiona
 The code in this repo is based on or refers to https://github.com/berlincho/RGCN-pytorch
 
 # Requirements
-* Hardware：CPU (Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz is recommended)
+* Hardware：CPU (RAM larger than 36G is recommended)
 * python-3.8.12
 * paddlepaddle-2.1.3
 * paddlenlp-2.1.1
