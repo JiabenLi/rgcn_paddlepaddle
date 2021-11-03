@@ -28,4 +28,4 @@ train: python run.py --train
 test: python run.py
 
 # Results
-Due to the characteristics of model in the article, the results are fluctuant all the time, so we show the average result: acc=95.83%.
+Due to the characteristics of model in the article, the results are fluctuant all the time, so we show the average result in the AIFB dataset: acc=95.83%.
