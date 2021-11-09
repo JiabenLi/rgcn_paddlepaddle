@@ -17,15 +17,7 @@ The code in this repo is based on or refers to https://github.com/berlincho/RGCN
 * h5py-3.5.0
 * install requirements via pip install -r requirements.txt
 
-# Trained Model
-The paddle model we trained：
-
-Link: https://pan.baidu.com/s/1CyRN0hnzjbOPNi8qMecUMA Password：aadf
-
 # Usage
 train: python run.py --train
 
 test: python run.py
-
-# Results
-Due to the characteristics of model in the article, the results are fluctuant all the time, so we show the average result in the AIFB dataset: acc=95.83%.
